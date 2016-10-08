@@ -10,6 +10,7 @@ import com.felix.mpermissionchecker.library.app.BasePermissionFragment;
 import com.felix.mpermissionchecker.sample.R;
 
 public class MPermissionFragment extends BasePermissionFragment {
+
     @Nullable
     @Override
     public View onCreateView(LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
